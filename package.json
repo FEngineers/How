@@ -1,0 +1,16 @@
+{
+  "name": "how",
+  "version": "1.0.0",
+  "description": "主要提供一些demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-ruby-sass": "^2.0.6",
+    "webpack": "^1.13.1"
+  }
+}
