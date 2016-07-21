@@ -15,3 +15,10 @@ gulp.watch(glob[, opts], tasks)
 ```
 gulp.watch(['./css/**/*', './js/**/*'], ['webpack', 'compile.css']);
 ```
+
+# 参考
+[gulp.watch](https://github.com/gulpjs/gulp/blob/master/docs/API.md#gulpwatchglob--opts-tasks-or-gulpwatchglob--opts-cb)
+
+[usage-with-gulp](https://webpack.github.io/docs/usage-with-gulp.html)
+
+[example](https://github.com/webpack/webpack-with-common-libs/blob/master/gulpfile.js)
